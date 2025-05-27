@@ -39,7 +39,7 @@
   "homepage": "https://github.com/DanielJDufour/proj4-fully-loaded#readme",
   "dependencies": {
     "proj4": "^2.8.0",
-    "proj4js-definitions": "^0.1.0"
+    "proj4js-definitions": "github:gfx-tekminera/proj4js-definitions#60d41b4"
   },
   "devDependencies": {
     "@types/proj4": "^2.5.2",
